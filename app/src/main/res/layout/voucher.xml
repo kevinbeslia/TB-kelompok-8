@@ -36,7 +36,7 @@
         android:fontFamily="@font/rm"
         android:text="Voucher Ku"
         android:textColor="#FFFF"
-        android:textSize="30dp"
+        android:textSize="31dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
