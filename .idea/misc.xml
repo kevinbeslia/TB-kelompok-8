@@ -21,23 +21,19 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/RedBullMart/app/src/main/res/layout/profil.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/RedBullMart/app/src/main/res/layout/register.xml" value="0.264" />
         <entry key="..\:/Users/user/AndroidStudioProjects/RedBullMart/app/src/main/res/layout/voucher.xml" value="0.264" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/alamat.xml" value="0.19610507246376813" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/faktur.xml" value="0.19610507246376813" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/favoritorder.xml" value="0.4" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/gantipassword.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/home.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/inbox.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/login.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/metodepembayaran.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/pembayaransukses.xml" value="0.264" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/pilihbarang.xml" value="0.264" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/pilihminimarket.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/poin.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/profil.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/register.xml" value="0.18432971014492755" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/statusorder.xml" value="0.2" />
-        <entry key="..\:/Users/user/Documents/GitHub/TB-kelompok-8/app/src/main/res/layout/voucher.xml" value="0.12760416666666666" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/drawable/bg.xml" value="0.2703125" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/drawable/bg2.xml" value="0.2703125" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/drawable/bg3.xml" value="0.2703125" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/alamat.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/faktur.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/favoritorder.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/home.xml" value="0.264" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/map.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/metodepembayaran.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/pilihbarang.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/pilihminimarket.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/poin.xml" value="0.25416666666666665" />
+        <entry key="..\:/xampp/htdocs/TB-kelompok-8/app/src/main/res/layout/searchmap.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
