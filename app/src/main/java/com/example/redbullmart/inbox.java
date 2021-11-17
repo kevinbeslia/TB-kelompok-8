@@ -13,4 +13,12 @@ public class inbox extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.inbox);
     }
+    public void home(View view) {
+        startActivity(new Intent(this, home.class));
+        finish();
+    }
+    public void profil(View view) {
+        startActivity(new Intent(this, profil.class));
+        finish();
+    }
 }

@@ -6,12 +6,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class favoritorder extends AppCompatActivity {
+public class pembayaransukses extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.favoritorder);
+        setContentView(R.layout.pembayaransukses);
     }
     public void back(View view) {
         startActivity(new Intent(this, home.class));

@@ -137,12 +137,12 @@
 
     <TextView
         android:id="@+id/textView45"
-        android:layout_width="388dp"
-        android:layout_height="91dp"
+        android:layout_width="381dp"
+        android:layout_height="86dp"
         android:fontFamily="@font/rblck"
         android:text="Terima Kasih Telah Berbelanja Di Red Bull Mart"
         android:textColor="@color/black"
-        android:textSize="25"
+        android:textSize="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"

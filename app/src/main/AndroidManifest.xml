@@ -26,6 +26,18 @@
         <activity android:name=".favoritorder"></activity>
         <activity android:name=".profil"></activity>
         <activity android:name=".inbox"></activity>
+        <activity android:name=".alamat"></activity>
+        <activity android:name=".map"></activity>
+        <activity android:name=".pilihminimarket"></activity>
+        <activity android:name=".pilihminimarket2"></activity>
+        <activity android:name=".ubahpassword"></activity>
+        <activity android:name=".metodepembayaran"></activity>
+        <activity android:name=".pembayaransukses"></activity>
+        <activity android:name=".searchmap"></activity>
+        <activity android:name=".pilihbarang"></activity>
+        <activity android:name=".pilihbarang2"></activity>
+        <activity android:name=".faktur"></activity>
+
     </application>
 
 </manifest>

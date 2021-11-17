@@ -6,15 +6,19 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class favoritorder extends AppCompatActivity {
+public class pilihminimarket2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.favoritorder);
+        setContentView(R.layout.pilihminimarket);
     }
     public void back(View view) {
-        startActivity(new Intent(this, home.class));
+        startActivity(new Intent(this, map.class));
+        finish();
+    }
+    public void pilih(View view) {
+        startActivity(new Intent(this, pilihbarang2.class));
         finish();
     }
 }

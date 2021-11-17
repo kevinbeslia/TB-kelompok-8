@@ -13,4 +13,8 @@ public class poin extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.poin);
     }
+    public void back(View view) {
+        startActivity(new Intent(this, home.class));
+        finish();
+    }
 }

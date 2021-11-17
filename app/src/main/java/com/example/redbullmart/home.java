@@ -18,6 +18,7 @@ public class home extends AppCompatActivity {
         startActivity(new Intent(this, favoritorder.class));
         finish();
     }
+
     public void poin(View view) {
         startActivity(new Intent(this, poin.class));
         finish();
@@ -26,12 +27,23 @@ public class home extends AppCompatActivity {
         startActivity(new Intent(this, voucher.class));
         finish();
     }
+
     public void profil(View view) {
         startActivity(new Intent(this, profil.class));
         finish();
     }
+
     public void inbox(View view) {
         startActivity(new Intent(this, inbox.class));
         finish();
     }
+    public void delivery (View view) {
+        startActivity(new Intent(this, alamat.class));
+        finish();
+    }
+    public void takeaway(View view) {
+        startActivity(new Intent(this, pilihminimarket.class));
+        finish();
+    }
+
 }

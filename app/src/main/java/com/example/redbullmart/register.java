@@ -13,5 +13,8 @@ public class register extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.register);
     }
-
+    public void daftar(View view) {
+        startActivity(new Intent(this, home.class));
+        finish();
+    }
 }

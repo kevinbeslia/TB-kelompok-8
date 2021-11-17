@@ -14,5 +14,9 @@ public class ubahpassword extends AppCompatActivity {
         setContentView(R.layout.gantipassword);
     }
 
+    public void back(View view) {
+        startActivity(new Intent(this, profil.class));
+        finish();
 
+    }
 }

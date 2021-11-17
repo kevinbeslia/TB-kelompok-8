@@ -13,4 +13,8 @@ public class voucher extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.voucher);
     }
+    public void back(View view) {
+        startActivity(new Intent(this, home.class));
+        finish();
+    }
 }

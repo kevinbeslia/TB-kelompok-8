@@ -160,6 +160,7 @@
         android:backgroundTint="#C9102E"
         android:text="DAFTAR"
         android:textColor="#FFFF"
+        android:onClick="daftar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"

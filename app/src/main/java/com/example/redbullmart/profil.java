@@ -14,9 +14,18 @@ public class profil extends AppCompatActivity {
         setContentView(R.layout.profil);
     }
 
+    public void ubahpassword (View view) {
+        startActivity(new Intent(this, ubahpassword.class));
+        finish();
 
+    }
     public void logout (View view) {
         startActivity(new Intent(this, login.class));
+        finish();
+
+    }
+    public void back (View view) {
+        startActivity(new Intent(this, home.class));
         finish();
 
     }
