@@ -45,5 +45,9 @@ public class home extends AppCompatActivity {
         startActivity(new Intent(this, pilihminimarket.class));
         finish();
     }
+    public void statusorder(View view) {
+        startActivity(new Intent(this, statusorder.class));
+        finish();
+    }
 
 }
