@@ -19,7 +19,7 @@ public class alamat extends AppCompatActivity {
         finish();
     }
     public void tambahalamat(View view) {
-        startActivity(new Intent(this, map.class));
+        startActivity(new Intent(this, map1.class));
         finish();
     }
     public void pilih(View view) {
